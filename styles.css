@@ -406,6 +406,7 @@ body {
   background-color: #f9fafb;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  border: 1px solid #170367;
   padding: 20px;
   text-align: center;
   transition: transform 0.3s ease;
@@ -423,7 +424,7 @@ body {
   object-position: top;
   border-radius: 8px;
   margin-bottom: 15px;
-  border: 3px solid #0ea5e9;
+  border: 3px solid #083173;
 }
 
 .project-card h3 {
@@ -447,7 +448,7 @@ body {
 
 .project-buttons a {
   padding: 10px 16px;
-  background-color: #0ea5e9;
+  background-color: #1977b5;
   color: white;
   text-decoration: none;
   border: 1px solid #083173;
